@@ -14,3 +14,10 @@ OCMock
 Protobuf
 leveldb-library
 nanopb
+!ProtoCompiler
+BoringSSL
+gRPC
+gRPC-C++
+gRPC-Core
+gRPC-ProtoRPC
+ProtobufCpp
