@@ -20,4 +20,4 @@ gRPC
 gRPC-C++
 gRPC-Core
 gRPC-ProtoRPC
-ProtobufCpp
+gRPC-RxLibrary

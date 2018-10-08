@@ -35,8 +35,7 @@ cleanup() {
 
 #!/bin/bash
 
-rm -rf Specs
-mkdir Specs
+mkdir -p Specs
 
 while read -r pod
 do
