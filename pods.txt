@@ -4,6 +4,7 @@ FirebaseAnalytics
 FirebaseInstanceID
 FBSDKCoreKit
 FBSDKLoginKit
+GoogleAppMeasurement
 GoogleSignIn
 GoogleToolboxForMac
 GTMOAuth2
