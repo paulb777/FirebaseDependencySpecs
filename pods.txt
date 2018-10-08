@@ -2,6 +2,7 @@ Bolts
 EarlGrey
 Firebase
 FirebaseAnalytics
+FirebaseInAppMessaging
 FirebaseInstanceID
 FBSDKCoreKit
 FBSDKLoginKit
