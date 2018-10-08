@@ -10,3 +10,4 @@ GTMOAuth2
 GTMSessionFetcher
 OCMock
 Protobuf
+leveldb-library

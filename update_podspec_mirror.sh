@@ -48,4 +48,4 @@ do
   else
     echo "No specs found for '$pod'"
   fi
-done < "scripts/pods.txt"
+done < "pods.txt"
