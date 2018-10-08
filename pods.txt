@@ -1,0 +1,12 @@
+EarlGrey
+Firebase
+FirebaseAnalytics
+FirebaseInstanceID
+FBSDKCoreKit
+FBSDKLoginKit
+GoogleSignIn
+GoogleToolboxForMac
+GTMOAuth2
+GTMSessionFetcher
+OCMock
+Protobuf
